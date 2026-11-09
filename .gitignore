@@ -1,0 +1,14 @@
+# Local verification artefact (the calculator used to test skill selection).
+# Deliberately kept out of the repository; it is a local signal, not part of SkillMatcher.
+/examples/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Editor/OS noise
+*.bak
+.DS_Store
